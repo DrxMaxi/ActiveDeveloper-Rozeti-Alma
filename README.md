@@ -4,7 +4,7 @@
 - Tokeni config.js üzeinden "TOKEN GİR" kısmına yapıştırın.
 - App İD'nizi alın ve config.js üzerinden "BOT İD GİR" kısmına yapıştırın.
 - "MONGODBURINİGİR" kısmına mongo URI'nizi giriniz. MongoDB bağlama bilmeyenler için: https://www.youtube.com/watch?v=s_-gJn9GDus
-- 
+ 
 2-) VS Code Terminalinde sırasıyla "npm i" "node .\index.js" yazın ve botunuz hazır.
 
 3-) Discord üzerinden botunuzu kullanın.
