@@ -14,3 +14,8 @@
 - Yan hesabınızda slash komudu kullanın.
 
 Ardından kolay gelsin 24 saat içerisinde https://discord.com/developers/active-developer buradan rozetinizi alabilirsiniz.
+
+*Sosyal medyadan takip ederseniz çok sevinirim. 
+- İnstagram: https://instagram.com/drxmaxi
+- Twitch: https://twitch.tv/drx_maxi
+- Youtube: https://www.youtube.com/channel/UCPnK9xVFUGZpXSnch3_Bb9w
